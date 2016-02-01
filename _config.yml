@@ -1,7 +1,7 @@
 name: Enactus uOttawa
 favicon: null
-layout_spectrum: 0.8971742943394929
-typography_spectrum: 0.2724144358653575
+layout_spectrum: 1
+typography_spectrum: 0.82039
 title: 'Enactus uOttawa | Student social entrepreneurs igniting change within communities'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8135825004428625
-  lightness: 0.40611306647770107
+    - '#515356'
+    - '#f3bd4a'
+    - '#000000'
+    - '#919091'
+    - '#ffffff'
+  brandStrength: 0.75
+  lightness: 1
   saturation: 0.12368685007095337
-  rhythmicContrast: 0.9805734599940479
+  rhythmicContrast: 1
 purpose: []
